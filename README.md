@@ -12,6 +12,9 @@ Wargame Solutions for https://dreamhack.io/
     |
     + - <문제 이름>/
         |
+        + - README.md
+        |     문제 링크
+        |
         + - <해답 및 해설>
               복수의 파일이 필요하면 작성자 이름으로 폴더 생성 후 그 아래에 파일들 배치
 ```
